@@ -8,8 +8,7 @@ Date  : 23/October/2026
 
 Run it:   python template.py
 
-Work through the numbered sections in order. Each one tells you what it must do.
-Delete these instructions as you replace them with your code.
+
 """
 class Record:
     def __init__(self, label, value, limit):

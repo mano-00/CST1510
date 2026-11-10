@@ -8,8 +8,7 @@ Date  : 6/November/2026
 
 Run it:   python template.py
 
-Work through the numbered sections in order. Each one tells you what it must do.
-Delete these instructions as you replace them with your code.
+
 """
 def parse_line(raw_line):
     """Clean a raw login line and return its fields as a dictionary."""
